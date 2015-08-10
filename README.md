@@ -1,7 +1,7 @@
 # GitTools
 Actualizador de proyectos y versiones
 
-Menu:
+Menu:<br><br>
 La ruta/opt/lampp/htdocs/proyecto es erronea o no existe.<br><br>
 
 1  => Checkout - [Ver ultimos archivos modificados]<br>
@@ -15,7 +15,13 @@ La ruta/opt/lampp/htdocs/proyecto es erronea o no existe.<br><br>
 9  => Merge    - [Fusiona los cambios]<br>
 10 => Rm       - [Elimina archivo en trabajo]<br><br>
 
-
+---------------------------------<br>
+C => Config  (ruta del proyecto)<br>
+---------------------------------<br>
+L => Limpiar (Limpiar terminal)<br>
+---------------------------------<br>
+S => Salir   (Salir del Script)<br>
+---------------------------------<br><br>
 
 ShellGit~opc# <br>
 
